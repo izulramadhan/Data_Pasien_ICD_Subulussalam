@@ -3,6 +3,7 @@
 
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
@@ -11,7 +12,7 @@ from sklearn.metrics import classification_report, accuracy_score, ConfusionMatr
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 from mlxtend.frequent_patterns import apriori, association_rules
-from matplotlib import pyplot as plt
+#from matplotlib import pyplot as plt
 
 # Title
 st.title('Pengumpulan Data Pasien')
