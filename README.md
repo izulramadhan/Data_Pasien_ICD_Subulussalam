@@ -4,10 +4,10 @@
 
 # Analisis Data Pasien Rumah Sakit dan Klasifikasi Diagnosis ICD-10
 
-Repository ini berisi proyek Ujian Akhir Semester (UAS) yang bertujuan untuk melakukan analisis data pasien rumah sakit serta klasifikasi diagnosis menggunakan kode ICD-10. Proyek ini dibuat menggunakan Python dan Jupyter Notebook.
-NIM : A11.2024.15796
-NAMA : AZIZUL PURNAMA RAMADHAN
-KELP : A11.4519
+Repository ini berisi proyek Ujian Akhir Semester (UAS) yang bertujuan untuk melakukan analisis data pasien rumah sakit serta klasifikasi diagnosis menggunakan kode ICD-10. Proyek ini dibuat menggunakan Jupyter Notebook.
+- NIM : A11.2024.15796
+- NAMA : AZIZUL PURNAMA RAMADHAN
+- KELP : A11.4519
 
 ## Fitur Utama
 - **Analisis Data Pasien:**
@@ -19,7 +19,7 @@ KELP : A11.4519
 
 ## Struktur Proyek
 ```
-|-- patient_icd_10_rs_sbs.xlsx          # Data mentah
+|-- patient_icd_10_rs_sbs.xlsx           # Data mentah
 |
 |-- index.ipynb                          # source code
 |-- index_output.ipynb                   # output
